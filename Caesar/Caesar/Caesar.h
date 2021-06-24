@@ -1,6 +1,4 @@
 #pragma once
-#ifndef CAESAR_H_
-#define CAESAR_H_
 #include<iostream>
 #include<string>
 
@@ -35,5 +33,3 @@ private:
 	}
 
 };
-
-#endif
